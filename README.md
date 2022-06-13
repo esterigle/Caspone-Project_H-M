@@ -1,5 +1,5 @@
 # Caspone Project - H&M Recomendation
-## Data Science and Machine Learning Postgraduate Course at Universitat de Barcelona, 2021-22
+## Data Science and Machine Learning Postgraduate Course at UB, 2021-22
 ### Ester Iglesias Masó
 ### Raquel Dominguez León
 ### Ana Berta Vegas Segura
