@@ -11,7 +11,12 @@ Este trabajo repositorio esta estructurado de la siguente manera:
   - sample_submission.csv - archivo de envío de muestra en el formato correcto de la solución
   - transactions_train.csv - los datos de entrenamiento, que consisten en las compras de cada cliente para cada fecha, así como información adicional. Las filas duplicadas corresponden a compras múltiples del mismo artículo.
 3. Documentación
-4. Modelo
+  - Articles - estudio del dataset articles.csv
+  - Customers - estudio del dataset customers.csv
+  - Transactions - estudio del dataset transactions_train.csv
+  - Relación - estudio de las relaciones de los tres datasets anteriores
+5. Modelo
+  - Modelo H&Recomendation - utilizaremos el sistema de recomendación Tensorflow (tfrs): Retrieval models para recomendaciones de productos de H&M.
 
 
 
