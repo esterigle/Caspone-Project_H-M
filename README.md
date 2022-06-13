@@ -13,9 +13,10 @@ Este trabajo repositorio esta estructurado de la siguente manera:
 3. Documentación
   - Articles* - estudio del dataset articles.csv
   - Customers* - estudio del dataset customers.csv
-  - Transactions* - estudio del dataset transactions_train.csv
- *Al final de estos tres notebooks de estudio se extraen unos nuevos datasets 
+  - Transactions* - estudio del dataset transactions_train.csv 
   - Relación - estudio de las relaciones de los tres datasets anteriores
+ 
+ *Al final de estos tres notebooks de estudio se extraen unos nuevos datasets que son los que se aplicaran al modelo
 5. Modelo
   - Modelo H&Recomendation - utilizaremos el sistema de recomendación Tensorflow (tfrs): Retrieval models para recomendaciones de productos de H&M.
 
