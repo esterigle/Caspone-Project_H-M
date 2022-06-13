@@ -4,6 +4,8 @@
 
 En este repositorio se puede encontrar el trabajo del Posgrado de Data Science y Maching Learning de Ester, Raquel y Ana Berta.
 
+XXXX Objetivo del projecto
+
 Este trabajo repositorio esta estructurado de la siguente manera:
 1. Datos
   - articles.csv - datos detallados para cada article_id disponible para la compra
